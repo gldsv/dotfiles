@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gildasvalentin@gmail.com
+	name = Gildas Valentin
